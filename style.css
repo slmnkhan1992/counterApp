@@ -1,0 +1,37 @@
+.main {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    height: 100vh;
+    align-items: center;
+}
+
+.btn {
+    margin-top: 25px;
+    width: 130px;
+    height: 35px;
+    font-size: 1.2rem;
+    border-radius: 5px;
+    margin-left: 5px;
+    text-align: center;
+    border: 2px solid red;
+    background-color: black;
+    color: white;
+}
+
+.count {
+    color:red;
+    font-size: 8rem;
+    font-weight: 800;
+}   
+
+h1 {
+    font-size: 3rem;
+    font-weight: 800;
+    color: rgb(13, 14, 13);
+
+}
+
+body {
+    background-color: rgb(119, 177, 177);
+}
